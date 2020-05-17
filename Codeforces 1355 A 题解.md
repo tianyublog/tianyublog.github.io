@@ -61,7 +61,7 @@ signed main(){
 
 自己连这么简单的题都不会，真是太菜了啊！
 
-另外，这道题我曾经 `Wrong Answer ` 过一次，在此提醒：
+另外，这道题我曾经 `Wrong Answer` 过一次，在此提醒：
 $$
 \texttt{十年 OI 一场空，不开 long long 见祖宗！}
 $$
