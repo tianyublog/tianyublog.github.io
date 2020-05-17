@@ -15,6 +15,7 @@
 ## 文章
 
 - [Codeforces 1355 A 题解](/Codeforces 1355 A 题解.html)
+- [Codeforces 1355 B 题解](/Codeforces 1355 B 题解.html)
 
 ## 刷题清单
 
