@@ -20,6 +20,7 @@
 - [Codeforces 1355 D 题解](/Codeforces 1355 D 题解.html)
 - [找对打字的感觉——Tickeys](/找对打字的感觉——Tickeys.html)
 - [NOI Online3 游记](/NOI Online3 游记.html)
+- [NOI Online3 入门组 第二题 观星 题解](/NOI Online3 入门组 第二题 观星 题解.html)
 
 ## 刷题清单
 
